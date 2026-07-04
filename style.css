@@ -412,3 +412,14 @@ flex-direction:column;
 }
 
 }
+.contact-box{
+    margin-bottom:40px;
+}
+
+.contact-buttons{
+    margin-top:50px;
+}
+
+.contact-buttons .btn{
+    margin:10px;
+}
