@@ -420,6 +420,6 @@ flex-direction:column;
     margin-top:50px;
 }
 
-.contact-buttons .btn{
-    margin:10px;
+.contact-buttons{
+    margin-top:120px;
 }
