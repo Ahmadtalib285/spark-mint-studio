@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahmadtalib285.github.io/spark-mint-studio/sitemap.xml
